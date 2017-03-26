@@ -5,4 +5,4 @@
     state: latest
     update_cache: yes
   with_items:
-    - package_list
+    - "{{ package_list }}"
