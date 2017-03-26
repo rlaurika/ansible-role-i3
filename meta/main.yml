@@ -1,0 +1,12 @@
+galaxy_info:
+  author: Risto Laurikainen
+  description: Install the i3 window manager
+  license: MIT
+  min_ansible_version: 2.0
+  platforms:
+  - name: Ubuntu
+    versions:
+    - 16.04
+  categories:
+    - development
+  dependencies: []
