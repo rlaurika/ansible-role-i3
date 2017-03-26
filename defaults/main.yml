@@ -1,0 +1,9 @@
+---
+package_list:
+  - i3-wm
+  - dmenu
+  - i3status
+  - feh
+  - i3lock
+  - rxvt-unicode-256color
+  - xautolock
